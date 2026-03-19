@@ -36,6 +36,16 @@ The goal is to go beyond raw numbers and actually understand what is happening, 
 * PM2.5 and PM10
 * City level measurements
 
+### JKPCB and CPCB
+
+* Public AQI and pollutant readings from government stations
+* Used mainly for cross checking and sanity validation
+* Not used as a primary source due to inconsistent availability and granularity
+
+Note: Accessing clean, consistent raw data from these sources is not straightforward. The data exists, but not in a form that is easy to programmatically use, so it is only used sparingly to verify trends rather than drive the analysis.
+
+Attempts to obtain structured or open raw data were not successful since requested bribery was denied by due diligence. The process lacked transparency and usability for independent work. This project therefore does not rely on these sources beyond basic validation, and highlights the broader issue that publicly funded environmental data is often not made practically accessible for analysis, which is a right of the public aiming to help the despicable institutions that rule the masses in a third world.
+
 ### Weather data
 
 * Wind speed
@@ -147,3 +157,4 @@ Start simple and see what actually works.
 AQI is not random. It follows patterns driven by weather and human activity.
 
 The point of this project is to take a small amount of data and extract as much structure and meaning from it as possible.
+
