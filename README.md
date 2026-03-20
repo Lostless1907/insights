@@ -44,7 +44,7 @@ The goal is to go beyond raw numbers and actually understand what is happening, 
 
 Note: Accessing clean, consistent raw data from these sources is not straightforward. The data exists, but not in a form that is easy to programmatically use, so it is only used sparingly to verify trends rather than drive the analysis.
 
-Attempts to obtain structured or open raw data were not successful since requested bribery was denied by due diligence. The process lacked transparency and usability for independent work. This project therefore does not rely on these sources beyond basic validation, and highlights the broader issue that publicly funded environmental data is often not made practically accessible for analysis, which is a right of the public aiming to help the despicable institutions that rule the masses in a third world.
+Attempts to obtain structured or open raw data were not successful. The process lacked transparency and usability for independent work. This project therefore does not rely on these sources beyond basic validation, and highlights the broader issue that publicly funded environmental data is often not made practically accessible for analysis..
 
 ### Weather data
 
